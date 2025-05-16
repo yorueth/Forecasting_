@@ -1,4 +1,5 @@
-# data_scrap.py disediakan untuk mengotomatiskan proses pengunduhan data historis Pair BTC dari Investing.com menggunakan library investpy (sebuah API tidak resmi). 
+# data_scrap.py 
+Disediakan untuk mengotomatiskan proses pengunduhan data historis Pair BTC dari Investing.com menggunakan library investpy (sebuah API tidak resmi). 
 
 # Library 
 streamlit
