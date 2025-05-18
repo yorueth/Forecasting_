@@ -1,5 +1,6 @@
 # Forecast.py 
-App utama 
+App utama ( latih model terlebih dahulu untuk menggunakan app ) 
+gunakan command, streamlit run forecast.py
 
 # data_scrap.py 
 data_scrap.py disediakan untuk mengotomatiskan proses pengunduhan data historis Pair BTC dari 
